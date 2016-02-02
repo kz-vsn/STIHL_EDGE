@@ -31,6 +31,7 @@ specs:
     chain_oil_capacity:
         cc: 180
         fl_oz: 6.1
+    short description: >- A lightweight, fuel-efficient chainsaw with reduced-emission engine technology.
     description: >-
         One of a new generation of occasional use saws, the MS 171
         STIHL chainsaw features reduced-emission engine

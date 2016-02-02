@@ -31,6 +31,7 @@ specs:
     chain_oil_capacity:
         cc: 145
         fl_oz: 4.9
+    short description: >- A lightweight chainsaw designed for woodcutting tasks around the home.
     description: >-
         Looking for a compact, occasional use chainsaw? Homeowners,
         look no further. Complete with the same design
