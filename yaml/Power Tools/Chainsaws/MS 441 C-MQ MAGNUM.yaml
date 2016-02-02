@@ -1,0 +1,41 @@
+# ==============================================================================
+# STIHL DB: STIHL Product Database
+#
+# Product Data File: MS 441 C-MQ MAGNUM
+# ==============================================================================
+
+product:
+    model: MS 441 C-MQ MAGNUM
+    key: ms441cmqz
+    b2b_class: MS 441 C-MQ Z
+
+type: chainsaw
+sub_type: current
+
+tags: []
+
+specs:
+    weight:
+        - kg: 6.7
+          lbs: 14.8
+          qualifier: None
+    engine_displacement:
+        cc: 70.7
+        cu_in: 4.3
+    engine_power:
+        kw: 4.2
+        bhp: 5.6
+    fuel_capacity:
+        cc: 725
+        fl_oz: 24.5
+    chain_oil_capacity:
+        cc: 360
+        fl_oz: 12.2
+    description: >-
+        With the same "must have"&rdquo; features as the MS 441,
+        this heavy-duty professional use chainsaw is
+        equipped with STIHL Quickstop&reg; and second chain
+        braking system. Great for felling, limbing and other
+        specialized forestry operations, the MS 441 C-MQ
+        MAGNUM&reg; lowers fuel consumption and emissions,
+        without sacrificing power.

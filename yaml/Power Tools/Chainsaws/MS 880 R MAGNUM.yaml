@@ -1,0 +1,41 @@
+# ==============================================================================
+# STIHL DB: STIHL Product Database
+#
+# Product Data File: MS 880 R MAGNUM
+# ==============================================================================
+
+product:
+    model: MS 880 R MAGNUM
+    key: ms880rz
+    b2b_class: MS 880-RZ
+
+type: chainsaw
+sub_type: current
+
+tags: []
+
+specs:
+    weight:
+        - kg: 10.3
+          lbs: 22.7
+          qualifier: None
+    engine_displacement:
+        cc: 121.6
+        cu_in: 7.42
+    engine_power:
+        kw: 6.4
+        bhp: 8.6
+    fuel_capacity:
+        cc: 1300
+        fl_oz: 44
+    chain_oil_capacity:
+        cc: 700
+        fl_oz: 23.7
+    description: >-
+        With the MS 880 R MAGNUM&reg; you get the most power of any
+        STIHL professional chainsaw. Designed for the big
+        tasks, this saw is ideal for felling and bucking
+        large diameter trees. Precision balanced with
+        excellent handling and reliability, this chainsaw
+        will take up to a 59-inch guide bar&mdash; for the
+        most demanding cutting jobs.

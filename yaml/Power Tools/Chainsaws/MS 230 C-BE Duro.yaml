@@ -1,0 +1,40 @@
+# ==============================================================================
+# STIHL DB: STIHL Product Database
+#
+# Product Data File: MS 230 C-BE Duro
+# ==============================================================================
+
+product:
+    model: MS 230 C-BE Duro
+    key: ms230cbeduro
+    b2b_class: ms230cbeduro
+
+type: chainsaw
+sub_type: current
+
+tags: []
+
+specs:
+    weight:
+        - kg: 4.9
+          lbs: 10.8
+          qualifier: None
+    engine_displacement:
+        cc: 40.2
+        cu_in: 2.45
+    engine_power:
+        kw: 1.9
+        bhp: 2.5
+    fuel_capacity:
+        cc: 470
+        fl_oz: 15.9
+    chain_oil_capacity:
+        cc: 200
+        fl_oz: 6.8
+    description: >-
+        Featuring our Quick Chain Adjuster and Easy2Start&trade;
+        System, the MS 230 C-BE Duro STIHL chainsaw has a
+        new saw chain that offers as long as four times the
+        edge life. This new STIHL PICCO&trade; Duro saw
+        chain will stay sharp longer &mdash; saving you time
+        by reducing chain sharpening maintenance.

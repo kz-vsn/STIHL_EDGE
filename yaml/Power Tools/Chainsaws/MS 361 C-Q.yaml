@@ -1,0 +1,42 @@
+# ==============================================================================
+# STIHL DB: STIHL Product Database
+#
+# Product Data File: MS 361 C-Q
+# ==============================================================================
+
+product:
+    model: MS 361 C-Q
+    key: ms361cqz
+    b2b_class: MS 361 C-QZ
+
+type: chainsaw
+sub_type: current
+
+tags: []
+
+specs:
+    weight:
+        - kg: 5.7
+          lbs: 12.6
+          qualifier: None
+    engine_displacement:
+        cc: 59
+        cu_in: 3.6
+    engine_power:
+        kw: 3.3
+        bhp: 4.4
+    fuel_capacity:
+        cc: 685
+        fl_oz: 23.2
+    chain_oil_capacity:
+        cc: 325
+        fl_oz: 11
+    description: >-
+        Series 1135 Professional Use With all the same professional
+        features as the MS 361, the MS 361 C-Q chainsaw
+        includes a second manually activated chain braking
+        system. An additional exclusive safety feature you
+        will want to have, the STIHL Quickstop® and second
+        chain braking system engages the brake in less than
+        one second when you remove your hand from the rear
+        handle.

@@ -1,0 +1,45 @@
+# ==============================================================================
+# STIHL DB: STIHL Product Database
+#
+# Product Data File: MS 150 C-E
+# ==============================================================================
+
+product:
+    model: MS 150 C-E
+    key: ms150cez
+    b2b_class: MS 150 C-E Z
+
+type: chainsaw
+sub_type: current
+
+tags: []
+
+specs:
+    weight:
+        - kg: 2.75
+          lbs: 6.1
+          qualifier: None
+    engine_displacement:
+        cc: 23.6
+        cu_in: 1.44
+    engine_power:
+        kw: 1
+        bhp: 1.34
+    fuel_capacity:
+        cc: 200
+        fl_oz: 6.76
+    chain_oil_capacity:
+        cc: 150
+        fl_oz: 5.07
+    description: >-
+        The STIHL MS 150 C-E is a lightweight dynamo, weighing only
+        6.1 pounds and loaded with exclusive STIHL features,
+        including Easy2Start&trade; technology. Ideal for
+        landscapers, arborists, tree farmers, or anyone in
+        need of a mobile, low weight saw, the MS 150 C-E
+        chainsaw is easy to handle, resulting in less
+        operator fatigue than heavier saws. Combined with
+        reduced exhaust emissions and enhanced fuel
+        efficiency as compared to traditional 2-stroke
+        engines, this is how ultra-lightweight chainsaws
+        should be made: the STIHL way.

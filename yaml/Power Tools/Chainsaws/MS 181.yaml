@@ -1,0 +1,41 @@
+# ==============================================================================
+# STIHL DB: STIHL Product Database
+#
+# Product Data File: MS 181
+# ==============================================================================
+
+product:
+    model: MS 181
+    key: ms181z
+    b2b_class: MS 181-Z
+
+type: chainsaw
+sub_type: current
+
+tags: []
+
+specs:
+    weight:
+        - kg: 4.3
+          lbs: 9.5
+          qualifier: None
+    engine_displacement:
+        cc: 31.8
+        cu_in: 1.9
+    engine_power:
+        kw: 1.5
+        bhp: 2
+    fuel_capacity:
+        cc: 280
+        fl_oz: 9.5
+    chain_oil_capacity:
+        cc: 180
+        fl_oz: 6.1
+    description: >-
+        Packed with new technology&mdash;at a value price&mdash;the
+        MS 181 STIHL chainsaw is designed to reduce
+        vibrations, making it more comfortable to operate.
+        This chainsaw also features reduced-emission engine
+        technology, which lowers fuel consumption as well as
+        emissions; maintaining good cutting speed perfect
+        for around-the-yard cutting jobs.

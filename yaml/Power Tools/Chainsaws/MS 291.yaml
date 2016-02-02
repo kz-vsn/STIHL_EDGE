@@ -1,0 +1,42 @@
+# ==============================================================================
+# STIHL DB: STIHL Product Database
+#
+# Product Data File: MS 291
+# ==============================================================================
+
+product:
+    model: MS 291
+    key: ms291z
+    b2b_class: MS 291-Z
+
+type: chainsaw
+sub_type: current
+
+tags: []
+
+specs:
+    weight:
+        - kg: 5.6
+          lbs: 12.3
+          qualifier: None
+    engine_displacement:
+        cc: 55.5
+        cu_in: 3.39
+    engine_power:
+        kw: 2.8
+        bhp: 3.76
+    fuel_capacity:
+        cc: 500
+        fl_oz: 16.9
+    chain_oil_capacity:
+        cc: 240
+        fl_oz: 8.12
+    description: >-
+        Equipped to handle demanding tasks, the MS 291 increases
+        running time by 20% over previous model. Packing
+        plenty of power, this chainsaw is ideal for felling,
+        firewood cutting and storm cleanup. Several user-
+        friendly features include an advanced anti-vibration
+        system that reduces operator fatigue and side chain
+        access for easy saw chain adjustment. The MS 291 is
+        a dependable choice for a mid-range chainsaw.

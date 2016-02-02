@@ -1,0 +1,51 @@
+# ==============================================================================
+# STIHL DB: STIHL Product Database
+#
+# Product Data File: MS 362 C-Q
+# ==============================================================================
+
+product:
+    model: MS 362 C-Q
+    key: ms362cqz
+    b2b_class: MS 362 C-Q Z
+
+type: chainsaw
+sub_type: current
+
+tags: []
+
+specs:
+    weight:
+        - kg: 6
+          lbs: 13.2
+          qualifier: None
+    engine_displacement:
+        cc: 59
+        cu_in: 3.6
+    engine_power:
+        kw: 3.4
+        bhp: 4.6
+    fuel_capacity:
+        cc: 600
+        fl_oz: 20.3
+    chain_oil_capacity:
+        cc: 325
+        fl_oz: 11
+    description: >-
+        A professional chainsaw with reduced emission engine
+        technology, the STIHL MS 362 C-Q is engineered to
+        save you time and money. Fuel efficiency is improved
+        by up to 20% compared to previous models. The new
+        pre-separation air filtration system allows for
+        fewer filter changes and longer runtimes. Saving
+        time doesn&rsquo;t mean you have to reduce comfort
+        &ndash; an advanced anti-vibration system allows for
+        longer usability during all applications, including
+        logging, thinning, arborwork and large firewood
+        cutting jobs. All this, plus the added benefits of a
+        STIHL Quickstop&reg; and Secondary Chain Braking
+        System, makes the MS 362 C-Q the leading choice for
+        professionals and serious users. As part of a new
+        platform design concept, the MS 362 C-Q allows for
+        quicker, more streamlined serviceability from your
+        local STIHL Dealer.

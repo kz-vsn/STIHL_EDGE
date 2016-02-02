@@ -1,0 +1,41 @@
+# ==============================================================================
+# STIHL DB: STIHL Product Database
+#
+# Product Data File: MS 211 C-BE
+# ==============================================================================
+
+product:
+    model: MS 211 C-BE
+    key: ms211cbez
+    b2b_class: MS 211 C-BE  Z
+
+type: chainsaw
+sub_type: current
+
+tags: []
+
+specs:
+    weight:
+        - kg: 4.6
+          lbs: 10.1
+          qualifier: None
+    engine_displacement:
+        cc: 35.2
+        cu_in: 2.2
+    engine_power:
+        kw: 1.7
+        bhp: 2.3
+    fuel_capacity:
+        cc: 280
+        fl_oz: 9.5
+    chain_oil_capacity:
+        cc: 180
+        fl_oz: 6.1
+    description: >-
+        Occasional User The MS 211 C-BE chainsaw has it all. With
+        low-emission engine technology, and our Quick Chain
+        Adjuster and Easy2Start&trade; System, you get lower
+        fuel consumption, fast and easy chain adjustment,
+        and easier starting. Designed around operator
+        comfort, this STIHL chainsaw is perfect for cutting
+        firewood or felling small trees.

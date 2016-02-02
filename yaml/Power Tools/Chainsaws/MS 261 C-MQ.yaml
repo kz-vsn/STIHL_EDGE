@@ -1,0 +1,51 @@
+# ==============================================================================
+# STIHL DB: STIHL Product Database
+#
+# Product Data File: MS 261 C-MQ
+# ==============================================================================
+
+product:
+    model: MS 261 C-MQ
+    key: ms261cmqz
+    b2b_class: MS 261 C-MQ Z
+
+type: chainsaw
+sub_type: current
+
+tags: []
+
+specs:
+    weight:
+        - kg: 5.5
+          lbs: 12.13
+          qualifier: None
+    engine_displacement:
+        cc: 50.5
+        cu_in: 3.08
+    engine_power:
+        kw: 2.9
+        bhp: 3.9
+    fuel_capacity:
+        cc: 500
+        fl_oz: 16.9
+    chain_oil_capacity:
+        cc: 270
+        fl_oz: 9.13
+    description: >-
+        The MS 261 C-MQ has all the same great features as the MS
+        261 &ndash; low emissions, high fuel efficiency and
+        performance &ndash; for professional users and
+        homeowners with large jobs. The MS 261 C-MQ also
+        includes advanced STIHL M-Tronic&trade; engine
+        management system. With STIHL M-Tronic&trade; an
+        onboard microprocessor digitally monitors and
+        automatically compensates for changes in your work
+        conditions including elevation, temperature, fuel
+        quality, varying octane levels and dirty air
+        filters. The end result is maximum performance
+        across a wide range of cutting conditions without
+        making any manual adjustments. The saw also features
+        STIHL Quickstop&reg; Plus, an additional chain
+        braking feature designed to stop the chain in less
+        than one second when you completely release the rear
+        handle.

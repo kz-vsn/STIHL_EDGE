@@ -1,0 +1,48 @@
+# ==============================================================================
+# STIHL DB: STIHL Product Database
+#
+# Product Data File: MS 261 C-Q
+# ==============================================================================
+
+product:
+    model: MS 261 C-Q
+    key: ms261cqz
+    b2b_class: MS 261 C-Q Z
+
+type: chainsaw
+sub_type: current
+
+tags: []
+
+specs:
+    weight:
+        - kg: 5.5
+          lbs: 12.13
+          qualifier: None
+    engine_displacement:
+        cc: 50.2
+        cu_in: 3.06
+    engine_power:
+        kw: 2.9
+        bhp: 3.9
+    fuel_capacity:
+        cc: 500
+        fl_oz: 16.9
+    chain_oil_capacity:
+        cc: 270
+        fl_oz: 9.13
+    description: >-
+        Reducing emissions by 50% and increasing fuel efficiency up
+        to 20% as compared to previous models, the STIHL MS
+        261 C-Q chainsaw can minimize environmental impact
+        and allow longer periods of use between refueling.
+        Ideal for felling, thinning, firewood cutting and
+        clearing, the MS 261 C-Q chainsaw features several
+        operator-friendly components, including an advanced
+        anti-vibration system that reduces user fatigue, a
+        side-access chain tensioner, a translucent fuel
+        tank, and toolless fuel and oil caps with retainers.
+        The MS 261 C-Q also includes STIHL Quickstop&reg;
+        Plus, an additional chain braking feature designed
+        to stop the chain in less than one second of
+        releasing the rear handle.

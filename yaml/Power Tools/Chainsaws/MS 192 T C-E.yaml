@@ -1,0 +1,41 @@
+# ==============================================================================
+# STIHL DB: STIHL Product Database
+#
+# Product Data File: MS 192 T C-E
+# ==============================================================================
+
+product:
+    model: MS 192 T C-E
+    key: ms192tcez
+    b2b_class: MS 192 TC-E Z
+
+type: chainsaw
+sub_type: current
+
+tags: []
+
+specs:
+    weight:
+        - kg: 3.2
+          lbs: 7
+          qualifier: None
+    engine_displacement:
+        cc: 30.1
+        cu_in: 1.8
+    engine_power:
+        kw: 1.3
+        bhp: 1.7
+    fuel_capacity:
+        cc: 270
+        fl_oz: 9.1
+    chain_oil_capacity:
+        cc: 220
+        fl_oz: 7.4
+    description: >-
+        For in-tree professional use only! Designed to help tree
+        services cut pruning and equipment costs down to
+        size, the MS 192 T C-E is one of the most popular
+        professional chainsaws on the market. Value priced,
+        this lightweight balanced chainsaw is now fitted
+        with our Easy2Start&trade; system for easy starts in
+        tough &ldquo;in tree&rdquo; situations.

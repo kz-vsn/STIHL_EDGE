@@ -1,0 +1,40 @@
+# ==============================================================================
+# STIHL DB: STIHL Product Database
+#
+# Product Data File: MS 660 MAGNUM
+# ==============================================================================
+
+product:
+    model: MS 660 MAGNUM
+    key: ms660magnum
+    b2b_class: MS 660-Magnum
+
+type: chainsaw
+sub_type: current
+
+tags: []
+
+specs:
+    weight:
+        - kg: 7.5
+          lbs: 16.5
+          qualifier: None
+    engine_displacement:
+        cc: 91.6
+        cu_in: 5.6
+    engine_power:
+        kw: 5.2
+        bhp: 7
+    fuel_capacity:
+        cc: 825
+        fl_oz: 27.9
+    chain_oil_capacity:
+        cc: 360
+        fl_oz: 12.2
+    description: >-
+        Step up to the big leagues with the MS 660 MAGNUM&reg;, the
+        legendary STIHL&reg; TIMBERSPORTS&reg; competition
+        chainsaw. With one of the best power-to-weight
+        ratios of any saw in the industry, this chainsaw
+        will take care of your heavy-duty big timber
+        cutting. A popular pick among professionals.

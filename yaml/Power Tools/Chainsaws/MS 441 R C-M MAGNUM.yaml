@@ -1,0 +1,51 @@
+# ==============================================================================
+# STIHL DB: STIHL Product Database
+#
+# Product Data File: MS 441 R C-M MAGNUM
+# ==============================================================================
+
+product:
+    model: MS 441 R C-M MAGNUM
+    key: ms441cmrz
+    b2b_class: MS 441 C-M RZ
+
+type: chainsaw
+sub_type: current
+
+tags: []
+
+specs:
+    weight:
+        - kg: 6.6
+          lbs: 14.6
+          qualifier: None
+    engine_displacement:
+        cc: 70.7
+        cu_in: 4.3
+    engine_power:
+        kw: 4.2
+        bhp: 5.6
+    fuel_capacity:
+        cc: 725
+        fl_oz: 24.5
+    chain_oil_capacity:
+        cc: 360
+        fl_oz: 12.2
+    description: >-
+        Featuring STIHL M-Tronic&trade; &ndash; an engine management
+        control system that intelligently manages the
+        operating performance of the engine &ndash; the MS
+        441 R C-M MAGNUM&reg; chainsaw is ideal for
+        professional jobs. The innovative system eliminates
+        the low and high-speed carburetor adjustment screws
+        and compensates for dirty air filters, changes in
+        elevation and fuel quality through an electronic
+        monitoring of the engine, digitally controlling the
+        fuel/air mixture. Designed with the professional in
+        mind, the MS 441 R C-M MAGNUM&reg; features a side-
+        access chain tensioner and an advanced anti-
+        vibration system that helps reduce user fatigue. A
+        translucent fuel tank makes checking levels easy. A
+        decompression valve and pre-separation air
+        filtration offer an easier start and longer run
+        times.

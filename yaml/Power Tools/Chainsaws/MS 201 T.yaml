@@ -1,0 +1,46 @@
+# ==============================================================================
+# STIHL DB: STIHL Product Database
+#
+# Product Data File: MS 201 T
+# ==============================================================================
+
+product:
+    model: MS 201 T
+    key: ms201tz
+    b2b_class: MS 201 T-Z
+
+type: chainsaw
+sub_type: current
+
+tags: []
+
+specs:
+    weight:
+        - kg: 3.71
+          lbs: 8.16
+          qualifier: None
+    engine_displacement:
+        cc: 35.2
+        cu_in: 2.14
+    engine_power:
+        kw: 1.8
+        bhp: 2.41
+    fuel_capacity:
+        cc: 310
+        fl_oz: 10.5
+    chain_oil_capacity:
+        cc: 220
+        fl_oz: 7.4
+    description: >-
+        For in-tree professional use only! Designed for arborists
+        and tree trimming professionals, the STIHL MS 201 T
+        Chainsaw uses advanced engine technology to reduce
+        engine emissions by a remarkable 70%. Plus, a 20%
+        increase in fuel economy means longer run times
+        between refueling. In addition, its built-in harness
+        ring provides balanced distribution of chainsaw
+        weight during in-tree use. Reduced vibration,
+        improved ergonomics and a top-handle design help
+        reduce operator fatigue, and the Master Control
+        Lever&trade; provides easier starting, operating and
+        stopping.

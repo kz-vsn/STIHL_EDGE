@@ -1,0 +1,43 @@
+# ==============================================================================
+# STIHL DB: STIHL Product Database
+#
+# Product Data File: MS 270
+# ==============================================================================
+
+product:
+    model: MS 270
+    key: ms270z
+    b2b_class: MS 270-Z
+
+type: chainsaw
+sub_type: current
+
+tags: []
+
+specs:
+    weight:
+        - kg: 5.3
+          lbs: 11.7
+          qualifier: None
+    engine_displacement:
+        cc: 50
+        cu_in: 3.05
+    engine_power:
+        kw: 2.5
+        bhp: 3.4
+    fuel_capacity:
+        cc: 520
+        fl_oz: 17.6
+    chain_oil_capacity:
+        cc: 280
+        fl_oz: 9.5
+    description: >-
+        A &ldquo;must have&rdquo;&mdash; this mid-range chainsaw
+        works hard in the woodpile and is designed
+        specifically for cutting firewood around the farm,
+        ranch or in the woods. With a high power-to-weight
+        ratio, the MS 270 has a long slim body, making it
+        comfortable for larger users. For use with a 16 to
+        20 inch bar, its sleek design and advanced anti-
+        vibration system make it an all around excellent
+        mid-range chainsaw.

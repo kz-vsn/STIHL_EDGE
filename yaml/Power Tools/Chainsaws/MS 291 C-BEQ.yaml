@@ -1,0 +1,47 @@
+# ==============================================================================
+# STIHL DB: STIHL Product Database
+#
+# Product Data File: MS 291 C-BEQ
+# ==============================================================================
+
+product:
+    model: MS 291 C-BEQ
+    key: ms291cbeqz
+    b2b_class: MS 291 C-BEQ Z
+
+type: chainsaw
+sub_type: current
+
+tags: []
+
+specs:
+    weight:
+        - kg: 6.2
+          lbs: 13.7
+          qualifier: None
+    engine_displacement:
+        cc: 55.5
+        cu_in: 3.39
+    engine_power:
+        kw: 2.8
+        bhp: 3.76
+    fuel_capacity:
+        cc: 500
+        fl_oz: 16.9
+    chain_oil_capacity:
+        cc: 240
+        fl_oz: 8.12
+    description: >-
+        Equipped with the Easy2Start&trade; system and a quick chain
+        adjuster, the MS 291 C-BEQ reduces the strength
+        needed to start the engine and allows the user to
+        adjust saw chain tension without the use of tools.
+        The low-emission and fuel-efficient engine increases
+        run time between refueling by 20% over the previous
+        model and reduces fuel consumption. But don&rsquo;t
+        let that fool you, the MS 291 C-BEQ packs plenty of
+        power for felling, firewood cutting and storm
+        cleanup. The additional chain braking feature is
+        designed to help reduce the risk of injury. This
+        mid-range, operator-friendly chainsaw is an
+        excellent choice.

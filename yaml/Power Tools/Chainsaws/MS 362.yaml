@@ -1,0 +1,50 @@
+# ==============================================================================
+# STIHL DB: STIHL Product Database
+#
+# Product Data File: MS 362
+# ==============================================================================
+
+product:
+    model: MS 362
+    key: ms362z
+    b2b_class: MS 362-Z
+
+type: chainsaw
+sub_type: current
+
+tags: []
+
+specs:
+    weight:
+        - kg: 5.9
+          lbs: 13
+          qualifier: None
+    engine_displacement:
+        cc: 59
+        cu_in: 3.6
+    engine_power:
+        kw: 3.4
+        bhp: 4.6
+    fuel_capacity:
+        cc: 600
+        fl_oz: 20.3
+    chain_oil_capacity:
+        cc: 325
+        fl_oz: 11
+    description: >-
+        With low-emission, fuel-efficient engine technology, the
+        STIHL MS 362 professional chainsaw is engineered to
+        save you time and money. Use up to 20% less fuel
+        compared to previous models, and with the new pre-
+        separation air filtration system, you&rsquo;ll have
+        fewer filter changes and longer run times. The
+        advanced anti-vibration system allows you to keep
+        working comfortably for longer periods of use during
+        most applications, including logging, thinning,
+        arborwork and large woodcutting jobs. All this, plus
+        70 percent lower emissions compared to previous
+        models, makes the MS 362 an ideal choice for
+        professionals and serious users. As part of a new
+        platform design concept, the MS 362 allows for
+        quicker, more streamlined serviceability from your
+        local STIHL Dealer.

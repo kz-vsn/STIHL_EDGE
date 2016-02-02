@@ -1,0 +1,41 @@
+# ==============================================================================
+# STIHL DB: STIHL Product Database
+#
+# Product Data File: MS 230 C-BE
+# ==============================================================================
+
+product:
+    model: MS 230 C-BE
+    key: ms230cbez
+    b2b_class: MS 230 C-BE Z
+
+type: chainsaw
+sub_type: current
+
+tags: []
+
+specs:
+    weight:
+        - kg: 4.9
+          lbs: 10.8
+          qualifier: None
+    engine_displacement:
+        cc: 40.2
+        cu_in: 2.45
+    engine_power:
+        kw: 1.9
+        bhp: 2.5
+    fuel_capacity:
+        cc: 470
+        fl_oz: 15.9
+    chain_oil_capacity:
+        cc: 200
+        fl_oz: 6.8
+    description: >-
+        Series 1123 Occasional Use Designed like the MS 230 and with
+        more power than the MS 210, this chainsaw’s
+        Easy2Start™ system allows for a virtually effortless
+        jerk-free start. With the exclusive Quick Chain
+        Adjuster and a high power-to-weight ratio, the MS
+        230 C-BE weighs in as a fully featured member of our
+        occasional use series chainsaws.

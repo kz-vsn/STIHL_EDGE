@@ -1,0 +1,41 @@
+# ==============================================================================
+# STIHL DB: STIHL Product Database
+#
+# Product Data File: MS 391
+# ==============================================================================
+
+product:
+    model: MS 391
+    key: ms391z
+    b2b_class: MS 391-Z
+
+type: chainsaw
+sub_type: current
+
+tags: []
+
+specs:
+    weight:
+        - kg: 6.2
+          lbs: 13.67
+          qualifier: None
+    engine_displacement:
+        cc: 64.1
+        cu_in: 3.9
+    engine_power:
+        kw: 3.3
+        bhp: 4.4
+    fuel_capacity:
+        cc: 600
+        fl_oz: 20.3
+    chain_oil_capacity:
+        cc: 350
+        fl_oz: 11.8
+    description: >-
+        With an advanced low-emission engine technology, the STIHL
+        MS 391 mid-range chainsaw improves fuel efficiency
+        by up to 20% compared to previous models. The new
+        air filtration system requires fewer filter changes,
+        allowing for longer run times. Improved fuel
+        efficiency and fewer filter changes save you time
+        and money.

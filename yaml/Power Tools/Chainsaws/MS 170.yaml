@@ -1,0 +1,40 @@
+# ==============================================================================
+# STIHL DB: STIHL Product Database
+#
+# Product Data File: MS 170
+# ==============================================================================
+
+product:
+    model: MS 170
+    key: ms170z
+    b2b_class: MS 170-Z
+
+type: chainsaw
+sub_type: current
+
+tags: []
+
+specs:
+    weight:
+        - kg: 3.9
+          lbs: 8.6
+          qualifier: None
+    engine_displacement:
+        cc: 30.1
+        cu_in: 1.8
+    engine_power:
+        kw: 1.3
+        bhp: 1.7
+    fuel_capacity:
+        cc: 250
+        fl_oz: 8.5
+    chain_oil_capacity:
+        cc: 145
+        fl_oz: 4.9
+    description: >-
+        Looking for a compact, occasional use chainsaw? Homeowners,
+        look no further. Complete with the same design
+        features the professionals depend on, the MS 170 is
+        lightweight with just the right amount of
+        power&mdash; perfect for residential cutting and
+        trimming of small trees, firewood or storm clean up.

@@ -1,0 +1,47 @@
+# ==============================================================================
+# STIHL DB: STIHL Product Database
+#
+# Product Data File: MS 251 C-BE Carrying Case Special
+# ==============================================================================
+
+product:
+    model: MS 251 C-BE Carrying Case Special
+    key: ms251cbeimst
+    b2b_class: ms251cbeIMST
+
+type: chainsaw
+sub_type: current
+
+tags: []
+
+specs:
+    weight:
+        - kg: 5.3
+          lbs: 11.9
+          qualifier: None
+    engine_displacement:
+        cc: 45.6
+        cu_in: 2.78
+    engine_power:
+        kw: 2.2
+        bhp: 2.95
+    fuel_capacity:
+        cc: 390
+        fl_oz: 13.2
+    chain_oil_capacity:
+        cc: 198
+        fl_oz: 6.7
+    description: >-
+        The STIHL MS 251 C-BE Chainsaw is as powerful and fuel-
+        efficient as the MS 251, but is also easy to start
+        and adjust. Ergonomically designed to bring you
+        maximum comfort during use, this tool produces 50
+        percent less emissions (as compared to previous
+        models) for a smaller impact on the environment. The
+        MS 251 C-BE packs features like Easy2Start&trade;
+        technology and easy-to-refill fuel and oil tanks, so
+        you can worry less about starting and operating your
+        equipment, and have more time getting your outdoor
+        jobs done. And with its Quick Chain Adjuster, you
+        can make sure you have proper tension on your saw
+        chain without the need of additional tools.

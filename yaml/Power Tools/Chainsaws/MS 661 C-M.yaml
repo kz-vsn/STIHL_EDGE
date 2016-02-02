@@ -1,0 +1,45 @@
+# ==============================================================================
+# STIHL DB: STIHL Product Database
+#
+# Product Data File: MS 661 C-M
+# ==============================================================================
+
+product:
+    model: MS 661 C-M
+    key: ms661cmzmagnum
+    b2b_class: MS 661 C-M Z Magnum
+
+type: chainsaw
+sub_type: current
+
+tags: []
+
+specs:
+    weight:
+        - kg: 7.56
+          lbs: 16.67
+          qualifier: None
+    engine_displacement:
+        cc: 91.1
+        cu_in: 5.56
+    engine_power:
+        kw: 5.4
+        bhp: 7.2
+    fuel_capacity:
+        cc: 825
+        fl_oz: 27.9
+    chain_oil_capacity:
+        cc: 360
+        fl_oz: 12.2
+    description: >-
+        Featuring an impressive power-to-weight ratio and STIHL
+        M-Tronic&trade; engine management technology, the MS
+        661 C-M is a professional chainsaw designed for
+        felling large diameter trees. With less vibration
+        and 20% greater fuel efficiency than the MS 660,
+        this saw also features a long-life filter system
+        using HD-2 filter elements to provide longer run
+        times between maintenance, an ElastoStart&trade;
+        handle and a high output adjustable oiler. Wrap-
+        handle version available in select areas. See MS 661
+        R C-M.

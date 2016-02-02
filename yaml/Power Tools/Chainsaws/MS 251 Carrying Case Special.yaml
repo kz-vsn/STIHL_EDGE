@@ -1,0 +1,44 @@
+# ==============================================================================
+# STIHL DB: STIHL Product Database
+#
+# Product Data File: MS 251 Carrying Case Special
+# ==============================================================================
+
+product:
+    model: MS 251 Carrying Case Special
+    key: ms251imst
+    b2b_class: ms251IMST
+
+type: chainsaw
+sub_type: current
+
+tags: []
+
+specs:
+    weight:
+        - kg: 4.9
+          lbs: 10.8
+          qualifier: None
+    engine_displacement:
+        cc: 45.6
+        cu_in: 2.78
+    engine_power:
+        kw: 2.2
+        bhp: 2.95
+    fuel_capacity:
+        cc: 390
+        fl_oz: 13.2
+    chain_oil_capacity:
+        cc: 198
+        fl_oz: 6.7
+    description: >-
+        The STIHL MS 251 Chainsaw is powerful, fuel-efficient and
+        easy to use. Ergonomically designed to bring you
+        maximum comfort during use, this tool produces 50
+        percent less emissions (as compared to previous
+        models) for a smaller impact on the environment. The
+        MS 251 packs features like a Master Control
+        Lever&trade; and easy-to-refill fuel and oil tanks,
+        so you can worry less about starting and operating
+        your equipment, and have more time getting your
+        outdoor jobs done.

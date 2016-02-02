@@ -1,0 +1,40 @@
+# ==============================================================================
+# STIHL DB: STIHL Product Database
+#
+# Product Data File: MS 250
+# ==============================================================================
+
+product:
+    model: MS 250
+    key: ms250z
+    b2b_class: MS 250-Z
+
+type: chainsaw
+sub_type: current
+
+tags: []
+
+specs:
+    weight:
+        - kg: 4.6
+          lbs: 10.1
+          qualifier: None
+    engine_displacement:
+        cc: 45.4
+        cu_in: 2.77
+    engine_power:
+        kw: 2.2
+        bhp: 3
+    fuel_capacity:
+        cc: 470
+        fl_oz: 15.9
+    chain_oil_capacity:
+        cc: 200
+        fl_oz: 6.8
+    description: >-
+        A step up from the MS 230, the MS 250 is light enough to
+        move through smaller tasks like clearing or cleanup
+        but packs a powerful enough punch to cut through
+        small limbs and trees. A combination of features and
+        a high power-to-weight ratio makes this one of the
+        best homeowner chainsaws on the market.
