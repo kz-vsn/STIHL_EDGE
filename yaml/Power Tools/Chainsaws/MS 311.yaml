@@ -1,0 +1,40 @@
+# ==============================================================================
+# STIHL DB: STIHL Product Database
+#
+# Product Data File: MS 311
+# ==============================================================================
+
+product:
+    model: MS 311
+    key: ms311z
+    b2b_class: MS 311-Z
+
+type: chainsaw
+sub_type: current
+
+tags: []
+
+specs:
+    weight:
+        - kg: 6.2
+          lbs: 13.67
+          qualifier: None
+    engine_displacement:
+        cc: 59
+        cu_in: 3.6
+    engine_power:
+        kw: 3.1
+        bhp: 4.2
+    fuel_capacity:
+        cc: 600
+        fl_oz: 20.3
+    chain_oil_capacity:
+        cc: 350
+        fl_oz: 11.8
+    description: >-
+        Ideal for felling, firewood cutting and storm cleanup, this
+        mid-range chainsaw features a low-emission engine
+        that reduces fuel consumption by up to 10% compared
+        to previous models. The new air filtration system
+        requires fewer filter changes and allows for longer
+        run times.

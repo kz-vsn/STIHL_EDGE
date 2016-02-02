@@ -1,0 +1,43 @@
+# ==============================================================================
+# STIHL DB: STIHL Product Database
+#
+# Product Data File: MS 250 C-BE
+# ==============================================================================
+
+product:
+    model: MS 250 C-BE
+    key: ms250cbez
+    b2b_class: MS 250 C-BE Z
+
+type: chainsaw
+sub_type: current
+
+tags: []
+
+specs:
+    weight:
+        - kg: 4.9
+          lbs: 10.8
+          qualifier: None
+    engine_displacement:
+        cc: 45.4
+        cu_in: 2.77
+    engine_power:
+        kw: 2.2
+        bhp: 3
+    fuel_capacity:
+        cc: 470
+        fl_oz: 15.9
+    chain_oil_capacity:
+        cc: 200
+        fl_oz: 6.8
+    description: >-
+        Our top-of-the-line occasional use chainsaw&mdash; need we
+        say more? STIHL&rsquo;s most innovative occasional
+        use chainsaw now features the Easy2Start&trade;
+        system, making the MS 250 C-BE the most versatile in
+        its series. Like the MS 250, it has just the right
+        amount of power and weight, and is now even easier
+        to start. So you can stop wasting time trying to
+        start your chainsaw, and spend more time getting
+        things done.

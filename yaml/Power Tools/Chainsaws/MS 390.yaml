@@ -1,0 +1,43 @@
+# ==============================================================================
+# STIHL DB: STIHL Product Database
+#
+# Product Data File: MS 390
+# ==============================================================================
+
+product:
+    model: MS 390
+    key: ms390
+    b2b_class: MS 390
+
+type: chainsaw
+sub_type: current
+
+tags: []
+
+specs:
+    weight:
+        - kg: 5.9
+          lbs: 13
+          qualifier: None
+    engine_displacement:
+        cc: 64.1
+        cu_in: 3.9
+    engine_power:
+        kw: 3.2
+        bhp: 4.3
+    fuel_capacity:
+        cc: 560
+        fl_oz: 18.9
+    chain_oil_capacity:
+        cc: 330
+        fl_oz: 11.2
+    description: >-
+        Series 1127 Mid-Range Use The MS 390 is not for the faint
+        hearted. With even more engine power than the MS
+        310, this chainsaw commands your attention. Most
+        popular for farming or firewood cutting, it is our
+        top model of mid-range saws. Capable of cutting
+        through large logs and flushing stumps, it’s also
+        fitted with a decompression valve for easier
+        starting and a combination of performance features
+        that make each job go a little faster.

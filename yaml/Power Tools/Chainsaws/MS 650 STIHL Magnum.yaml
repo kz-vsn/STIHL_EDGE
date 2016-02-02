@@ -1,0 +1,42 @@
+# ==============================================================================
+# STIHL DB: STIHL Product Database
+#
+# Product Data File: MS 650 STIHL Magnum
+# ==============================================================================
+
+product:
+    model: MS 650 STIHL Magnum
+    key: ms650magnum
+    b2b_class: MS 650 Magnum
+
+type: chainsaw
+sub_type: current
+
+tags: []
+
+specs:
+    weight:
+        - kg: 7.6
+          lbs: 16.8
+          qualifier: Flush-Cut: 7.5 kg (16.5 lbs.) Wrap-Handle
+    engine_displacement:
+        cc: 84.9
+        cu_in: 5.2
+    engine_power:
+        kw: 4.8
+        bhp: 6.4
+    fuel_capacity:
+        cc: 825
+        fl_oz: 27.9
+    chain_oil_capacity:
+        cc: 360
+        fl_oz: 12.2
+    description: >-
+        STIHL Magnum Series 1122 Professional Use It's show time for
+        the MS 650 STIHL Magnum. Loaded with all the same
+        high-performance features as the MS 660, this
+        chainsaw is designed for heavy timber cutting and
+        other professional-use applications. With just the
+        right amount of power at a value price this chainsaw
+        has the perfect combination to help complete your
+        task.

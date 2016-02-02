@@ -1,0 +1,42 @@
+# ==============================================================================
+# STIHL DB: STIHL Product Database
+#
+# Product Data File: MS 192 C-E
+# ==============================================================================
+
+product:
+    model: MS 192 C-E
+    key: ms192cez
+    b2b_class: MS 192 C-E Z
+
+type: chainsaw
+sub_type: current
+
+tags: []
+
+specs:
+    weight:
+        - kg: 3.3
+          lbs: 7.4
+          qualifier: None
+    engine_displacement:
+        cc: 30.1
+        cu_in: 1.8
+    engine_power:
+        kw: 1.3
+        bhp: 1.7
+    fuel_capacity:
+        cc: 270
+        fl_oz: 9.1
+    chain_oil_capacity:
+        cc: 220
+        fl_oz: 7.4
+    description: >-
+        The MS 192 C-E is a light weight, rear handle chainsaws.
+        Designed with more comfort features, this chainsaw
+        is ideal for occasional use to get the job done.
+        Technologically advanced, this machine has the
+        Easy2Start&trade; system, eliminating the need for a
+        strong, fast pull of the starting cord&mdash; making
+        operation especially quick and easy for just about
+        anyone.

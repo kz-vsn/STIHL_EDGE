@@ -1,0 +1,40 @@
+# ==============================================================================
+# STIHL DB: STIHL Product Database
+#
+# Product Data File: MS 361 C-B
+# ==============================================================================
+
+product:
+    model: MS 361 C-B
+    key: ms361cbz
+    b2b_class: MS 361 C-BZ
+
+type: chainsaw
+sub_type: current
+
+tags: []
+
+specs:
+    weight:
+        - kg: 5.6
+          lbs: 12.3
+          qualifier: None
+    engine_displacement:
+        cc: 59
+        cu_in: 3.6
+    engine_power:
+        kw: 3.3
+        bhp: 4.4
+    fuel_capacity:
+        cc: 685
+        fl_oz: 23.2
+    chain_oil_capacity:
+        cc: 325
+        fl_oz: 11
+    description: >-
+        Series 1135 Professional Use In addition to its low
+        vibration levels, this chainsaw is fitted with our
+        fast and easy Quick Chain Adjuster for professionals
+        who are on the go. Designed for thinning timber
+        stands or cutting firewood, the MS 361 C-B is yet
+        another upgrade to our MS 361.

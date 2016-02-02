@@ -1,0 +1,47 @@
+# ==============================================================================
+# STIHL DB: STIHL Product Database
+#
+# Product Data File: MS 150 T C-E
+# ==============================================================================
+
+product:
+    model: MS 150 T C-E
+    key: ms150tcez
+    b2b_class: MS 150 TC-E Z
+
+type: chainsaw
+sub_type: current
+
+tags: []
+
+specs:
+    weight:
+        - kg: 2.6
+          lbs: 5.7
+          qualifier: None
+    engine_displacement:
+        cc: 23.6
+        cu_in: 1.44
+    engine_power:
+        kw: 1
+        bhp: 1.34
+    fuel_capacity:
+        cc: 200
+        fl_oz: 6.76
+    chain_oil_capacity:
+        cc: 150
+        fl_oz: 5.07
+    description: >-
+        Exclusively for in-tree professionals, the STIHL MS 150 T
+        C-E features durability and portability. This
+        lightweight powerhead weighs only 5.7 pounds and
+        features Easy2Start&trade; technology for smooth
+        starts. Ideal for arborists, the MS 150 T C-E is
+        easy to carry, and its top-handle design is easy to
+        maneuver. The result is less operator fatigue, which
+        can result from use of heavier saws. It also
+        features reduced exhaust emission technology and
+        enhanced fuel efficiency as compared to traditional
+        2-stroke engines, which means fewer fill-ups and
+        fewer interruptions to your work. This is how STIHL
+        makes ultra-lightweight chainsaws: The right way.

@@ -1,0 +1,41 @@
+# ==============================================================================
+# STIHL DB: STIHL Product Database
+#
+# Product Data File: MS 362 R C-M
+# ==============================================================================
+
+product:
+    model: MS 362 R C-M
+    key: ms362rz
+    b2b_class: MS 362-RZ
+
+type: chainsaw
+sub_type: current
+
+tags: []
+
+specs:
+    weight:
+        - kg: 6.2
+          lbs: 13.7
+          qualifier: None
+    engine_displacement:
+        cc: 59
+        cu_in: 3.6
+    engine_power:
+        kw: 3.4
+        bhp: 4.6
+    fuel_capacity:
+        cc: 600
+        fl_oz: 20.3
+    chain_oil_capacity:
+        cc: 325
+        fl_oz: 11
+    description: >-
+        This STIHL MS 362 R professional chainsaw features include
+        an enhanced low-emission engine technology with up
+        to 20% less fuel consumption than previous models.
+        Improved air filtration means fewer filter changes
+        and longer runtimes. The MS 362 R is a great choice
+        for logging, thinning, arborwork and large
+        woodcutting jobs.

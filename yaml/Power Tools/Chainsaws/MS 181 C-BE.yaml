@@ -1,0 +1,43 @@
+# ==============================================================================
+# STIHL DB: STIHL Product Database
+#
+# Product Data File: MS 181 C-BE
+# ==============================================================================
+
+product:
+    model: MS 181 C-BE
+    key: ms181cbez
+    b2b_class: MS 181 C-BE Z
+
+type: chainsaw
+sub_type: current
+
+tags: []
+
+specs:
+    weight:
+        - kg: 4.6
+          lbs: 10.1
+          qualifier: None
+    engine_displacement:
+        cc: 31.8
+        cu_in: 1.9
+    engine_power:
+        kw: 1.5
+        bhp: 2
+    fuel_capacity:
+        cc: 280
+        fl_oz: 9.5
+    chain_oil_capacity:
+        cc: 180
+        fl_oz: 6.1
+    description: >-
+        The MS 181 C-BE Chainsaw features Easy2Start&trade; and
+        allows an easier start that requires less pulling
+        force. The Quick Chain Adjuster makes adjusting and
+        removing saw chains simple &ndash; no tools are
+        needed. Reduced vibrations lessen user fatigue
+        making this tool ideal for landscaping jobs around
+        the home. Because of its reduced-emission engine
+        technology, the MS 181 C-BE lowers fuel consumption
+        and requires less air filter maintenance.

@@ -1,0 +1,41 @@
+# ==============================================================================
+# STIHL DB: STIHL Product Database
+#
+# Product Data File: MS 210
+# ==============================================================================
+
+product:
+    model: MS 210
+    key: ms210z
+    b2b_class: MS 210-Z
+
+type: chainsaw
+sub_type: current
+
+tags: []
+
+specs:
+    weight:
+        - kg: 4.4
+          lbs: 9.7
+          qualifier: None
+    engine_displacement:
+        cc: 35.2
+        cu_in: 2.15
+    engine_power:
+        kw: 1.5
+        bhp: 2
+    fuel_capacity:
+        cc: 470
+        fl_oz: 15.9
+    chain_oil_capacity:
+        cc: 200
+        fl_oz: 6.8
+    description: >-
+        Series 1123 Occasional Use The MS 210, designed for the
+        economical occasional user, is perfect for firewood
+        cutting, felling small trees up to 12 inches in
+        diameter, or light trimming and pruning. With great
+        handling, good power and fast clean cutting ability,
+        this chainsaw’s standard features take care of the
+        rest.

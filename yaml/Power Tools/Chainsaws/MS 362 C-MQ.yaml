@@ -1,0 +1,45 @@
+# ==============================================================================
+# STIHL DB: STIHL Product Database
+#
+# Product Data File: MS 362 C-MQ
+# ==============================================================================
+
+product:
+    model: MS 362 C-MQ
+    key: ms362cmqz
+    b2b_class: MS 362 C-MQ Z
+
+type: chainsaw
+sub_type: current
+
+tags: []
+
+specs:
+    weight:
+        - kg: 5.9
+          lbs: 13
+          qualifier: None
+    engine_displacement:
+        cc: 59
+        cu_in: 3.6
+    engine_power:
+        kw: 3.5
+        bhp: 4.69
+    fuel_capacity:
+        cc: 0
+        fl_oz: 0
+    chain_oil_capacity:
+        cc: 0
+        fl_oz: 0
+    description: >-
+        The MS 362 C-MQ features the same great power, weight and
+        fuel efficiency as the MS 362, but also features our
+        exclusive STIHL M-Tronic&trade; engine monitoring
+        technology. STIHL M-Tronic&trade; digitally monitors
+        and automatically compensates for changes in
+        elevation, temperature, fuel quality &ndash;
+        including octane levels, and dirty air filters. The
+        MS 362 C-MQ also features STIHL Quickstop&reg; Plus
+        designed to stop the chain in one second when you
+        completely release your right hand from the rear
+        handle.

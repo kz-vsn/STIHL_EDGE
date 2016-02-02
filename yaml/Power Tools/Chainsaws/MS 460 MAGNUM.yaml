@@ -1,0 +1,40 @@
+# ==============================================================================
+# STIHL DB: STIHL Product Database
+#
+# Product Data File: MS 460 MAGNUM
+# ==============================================================================
+
+product:
+    model: MS 460 MAGNUM
+    key: ms460
+    b2b_class: MS 460
+
+type: chainsaw
+sub_type: current
+
+tags: []
+
+specs:
+    weight:
+        - kg: 6.6
+          lbs: 14.6
+          qualifier: None
+    engine_displacement:
+        cc: 76.5
+        cu_in: 4.7
+    engine_power:
+        kw: 4.5
+        bhp: 6
+    fuel_capacity:
+        cc: 800
+        fl_oz: 27.1
+    chain_oil_capacity:
+        cc: 325
+        fl_oz: 11
+    description: >-
+        A perfect fit for the demanding professional, the MS 460
+        MAGNUM&reg; is one tough high-performance chainsaw.
+        High engine power and torque, resulting in an
+        impressive power-to-weight ratio, make this tool a
+        great all around professional chainsaw for forest or
+        tree service.

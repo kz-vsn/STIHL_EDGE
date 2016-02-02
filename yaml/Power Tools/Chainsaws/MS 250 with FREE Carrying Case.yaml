@@ -1,0 +1,43 @@
+# ==============================================================================
+# STIHL DB: STIHL Product Database
+#
+# Product Data File: MS 250 with FREE Carrying Case
+# ==============================================================================
+
+product:
+    model: MS 250 with FREE Carrying Case
+    key: ms250free
+    b2b_class: ms250free
+
+type: chainsaw
+sub_type: current
+
+tags: []
+
+specs:
+    weight:
+        - kg: 4.6
+          lbs: 10.1
+          qualifier: None
+    engine_displacement:
+        cc: 45.4
+        cu_in: 2.77
+    engine_power:
+        kw: 2.2
+        bhp: 3
+    fuel_capacity:
+        cc: 470
+        fl_oz: 15.9
+    chain_oil_capacity:
+        cc: 200
+        fl_oz: 6.8
+    description: >-
+        Series 1123 Occasional Use Reserve an MS 250 and receive a
+        Free Carrying Case. Offer good from 8/1/11 - 9/30/11
+        at participating Dealers while supplies last. A step
+        up from the MS 230, the MS 250 is light enough to
+        move through smaller tasks like clearing or cleanup
+        but packs a powerful enough punch to cut through
+        small limbs and trees. A combination of features and
+        a high power-to-weight ratio makes this one of the
+        best homeowner chainsaws on the market.

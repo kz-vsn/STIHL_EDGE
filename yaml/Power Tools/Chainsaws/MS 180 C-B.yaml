@@ -1,0 +1,41 @@
+# ==============================================================================
+# STIHL DB: STIHL Product Database
+#
+# Product Data File: MS 180 C-B
+# ==============================================================================
+
+product:
+    model: MS 180 C-B
+    key: ms180cbz
+    b2b_class: MS 180 C-B Z
+
+type: chainsaw
+sub_type: current
+
+tags: []
+
+specs:
+    weight:
+        - kg: 4
+          lbs: 8.8
+          qualifier: None
+    engine_displacement:
+        cc: 31.8
+        cu_in: 1.9
+    engine_power:
+        kw: 1.5
+        bhp: 2
+    fuel_capacity:
+        cc: 250
+        fl_oz: 8.5
+    chain_oil_capacity:
+        cc: 145
+        fl_oz: 4.9
+    description: >-
+        One of our most popular chainsaws for home use, this fully
+        featured unit comes with extra power and fast
+        cutting performance. Compact and designed
+        specifically for homeowners, the MS 180 C-B is
+        suited for a variety of purposes around the yard
+        like trimming trees or cutting firewood and fallen
+        limbs.

@@ -1,0 +1,41 @@
+# ==============================================================================
+# STIHL DB: STIHL Product Database
+#
+# Product Data File: MS 171
+# ==============================================================================
+
+product:
+    model: MS 171
+    key: ms171z
+    b2b_class: MS 171-Z
+
+type: chainsaw
+sub_type: current
+
+tags: []
+
+specs:
+    weight:
+        - kg: 4.3
+          lbs: 9.5
+          qualifier: None
+    engine_displacement:
+        cc: 30.1
+        cu_in: 1.8
+    engine_power:
+        kw: 1.3
+        bhp: 1.7
+    fuel_capacity:
+        cc: 280
+        fl_oz: 9.5
+    chain_oil_capacity:
+        cc: 180
+        fl_oz: 6.1
+    description: >-
+        One of a new generation of occasional use saws, the MS 171
+        STIHL chainsaw features reduced-emission engine
+        technology &mdash; an advantage for the user because
+        it reduces fuel consumption while reducing exhaust
+        emissions. This innovative chainsaw is just right
+        for homeowners who need to cut firewood, fell small
+        trees or do clean up.

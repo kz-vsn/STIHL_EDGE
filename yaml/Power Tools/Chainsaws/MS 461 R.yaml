@@ -1,0 +1,45 @@
+# ==============================================================================
+# STIHL DB: STIHL Product Database
+#
+# Product Data File: MS 461 R
+# ==============================================================================
+
+product:
+    model: MS 461 R
+    key: ms461rz
+    b2b_class: MS 461-RZ
+
+type: chainsaw
+sub_type: current
+
+tags: []
+
+specs:
+    weight:
+        - kg: 6.9
+          lbs: 15.2
+          qualifier: None
+    engine_displacement:
+        cc: 76.5
+        cu_in: 4.7
+    engine_power:
+        kw: 4.5
+        bhp: 6
+    fuel_capacity:
+        cc: 800
+        fl_oz: 27.1
+    chain_oil_capacity:
+        cc: 325
+        fl_oz: 11
+    description: >-
+        The STIHL MS 461 R is a great all-around professional
+        forestry and tree care chainsaw. With the same power
+        and weight as the MS 460, it offers up to 20% less
+        fuel consumption, meaning you can spend less time
+        refueling and less money on fuel. This durable
+        chainsaw also features a wrap-around handle for use
+        in multiple positions for felling or limbing with
+        hands in the proper positions. The heavy-duty HD-2
+        filter element provides longer run times between air
+        filter maintenance. The MS 461 R is also available
+        in a non-wrap handle version.

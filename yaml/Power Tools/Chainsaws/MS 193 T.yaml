@@ -1,0 +1,52 @@
+# ==============================================================================
+# STIHL DB: STIHL Product Database
+#
+# Product Data File: MS 193 T
+# ==============================================================================
+
+product:
+    model: MS 193 T
+    key: ms193tz
+    b2b_class: MS 193 T-Z
+
+type: chainsaw
+sub_type: current
+
+tags: []
+
+specs:
+    weight:
+        - kg: 3.3
+          lbs: 7.28
+          qualifier: None
+    engine_displacement:
+        cc: 30.1
+        cu_in: 1.84
+    engine_power:
+        kw: 1.3
+        bhp: 1.74
+    fuel_capacity:
+        cc: 270
+        fl_oz: 9.1
+    chain_oil_capacity:
+        cc: 220
+        fl_oz: 7.4
+    description: >-
+        The MS 193 T is affordably priced and packed with premium
+        features that save time and money. The compact, top-
+        handled design, low weight, and superior power-to-
+        weight ratio makes it a top choice for tree service
+        personnel and arborists who are looking for
+        performance in a tool that is easy to handle, and
+        reduces operator fatigue. Ideal for storm cleanup,
+        and tree pruning, it offers additional features like
+        a toolless retainer for the air filter cover, a
+        lanyard ring, purge pump primer, and the
+        IntelliCarb&trade; Compensating Carburetor. This
+        product is proudly built in America* and engineered
+        to offer demanding professionals affordable and
+        cost-efficient performance. *A majority of STIHL
+        powerheads are built in the United States from
+        domestic and foreign parts and components. Reduced
+        fuel costs and emissions as compared to the previous
+        model (MS 192 T).

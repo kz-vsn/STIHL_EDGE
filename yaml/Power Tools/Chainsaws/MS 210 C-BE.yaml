@@ -1,0 +1,41 @@
+# ==============================================================================
+# STIHL DB: STIHL Product Database
+#
+# Product Data File: MS 210 C-BE
+# ==============================================================================
+
+product:
+    model: MS 210 C-BE
+    key: ms210cbe
+    b2b_class: ms210cbe
+
+type: chainsaw
+sub_type: current
+
+tags: []
+
+specs:
+    weight:
+        - kg: 4.8
+          lbs: 10.6
+          qualifier: None
+    engine_displacement:
+        cc: 35.2
+        cu_in: 2.15
+    engine_power:
+        kw: 1.5
+        bhp: 2
+    fuel_capacity:
+        cc: 470
+        fl_oz: 15.9
+    chain_oil_capacity:
+        cc: 200
+        fl_oz: 6.8
+    description: >-
+        Series 1123 Occasional Use The MS 210 C-BE, now with our
+        Easy2Start™ system, is easier than ever to start up.
+        Lightweight and an excellent performer for general-
+        purpose tasks, this chainsaw can’t be beat for
+        pruning, firewood preparation and moderate
+        woodcutting needs around the home. Click here to
+        view a video demonstration of the Easy2Start™ System

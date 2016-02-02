@@ -1,0 +1,45 @@
+# ==============================================================================
+# STIHL DB: STIHL Product Database
+#
+# Product Data File: MS 271 FARM BOSS
+# ==============================================================================
+
+product:
+    model: MS 271 FARM BOSS
+    key: ms271z
+    b2b_class: MS 271-Z
+
+type: chainsaw
+sub_type: current
+
+tags: []
+
+specs:
+    weight:
+        - kg: 5.6
+          lbs: 12.3
+          qualifier: None
+    engine_displacement:
+        cc: 50.2
+        cu_in: 3.06
+    engine_power:
+        kw: 2.6
+        bhp: 3.49
+    fuel_capacity:
+        cc: 500
+        fl_oz: 16.9
+    chain_oil_capacity:
+        cc: 240
+        fl_oz: 8.12
+    description: >-
+        Bringing reduced-emission technology to mid-range chainsaws,
+        the STIHL MS 271 FARM BOSS&reg; is ideal for
+        felling, firewood cutting and storm cleanup tasks.
+        An improved low-emission, fuel-efficient engine cuts
+        emissions by 50% when compared to previous models
+        and delivers 20% longer run times than traditional
+        2-stroke engines. Designed with user comfort in
+        mind, its compact, ergonomic design and advanced
+        anti-vibration system help to reduce operator
+        fatigue while providing optimum control. Men's
+        Journal Approved! Read their review!

@@ -1,0 +1,43 @@
+# ==============================================================================
+# STIHL DB: STIHL Product Database
+#
+# Product Data File: MS 461
+# ==============================================================================
+
+product:
+    model: MS 461
+    key: ms461z
+    b2b_class: MS 461-Z
+
+type: chainsaw
+sub_type: current
+
+tags: []
+
+specs:
+    weight:
+        - kg: 6.6
+          lbs: 14.6
+          qualifier: None
+    engine_displacement:
+        cc: 76.5
+        cu_in: 4.7
+    engine_power:
+        kw: 4.4
+        bhp: 5.9
+    fuel_capacity:
+        cc: 800
+        fl_oz: 27.1
+    chain_oil_capacity:
+        cc: 325
+        fl_oz: 11
+    description: >-
+        With the same power and weight as the MS 460, it offers up
+        to 20% less fuel consumption, meaning you can spend
+        less time refueling and less money on fuel. This
+        durable chainsaw also features high torque over a
+        broad RPM range to deliver professional performance.
+        The heavy-duty HD-2 filter element provides longer
+        run times between air filter maintenance. Wrap
+        handle (MS 461 R) and severe cold weather (VW)
+        versions are also available.

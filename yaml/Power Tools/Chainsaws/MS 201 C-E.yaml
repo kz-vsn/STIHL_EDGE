@@ -1,0 +1,44 @@
+# ==============================================================================
+# STIHL DB: STIHL Product Database
+#
+# Product Data File: MS 201 C-E
+# ==============================================================================
+
+product:
+    model: MS 201 C-E
+    key: ms201cez
+    b2b_class: MS 201 C-E Z
+
+type: chainsaw
+sub_type: current
+
+tags: []
+
+specs:
+    weight:
+        - kg: 4.1
+          lbs: 8.82
+          qualifier: None
+    engine_displacement:
+        cc: 35.2
+        cu_in: 2.14
+    engine_power:
+        kw: 1.8
+        bhp: 2.41
+    fuel_capacity:
+        cc: 310
+        fl_oz: 10.5
+    chain_oil_capacity:
+        cc: 220
+        fl_oz: 7.4
+    description: >-
+        The STIHL MS 201 C-E chainsaw was designed for professionals
+        and landowners needing a reduced-emission,
+        lightweight, easy-operating chainsaw that delivers
+        the power they need to get the job done. Advanced
+        reduced-emission engine technology cuts engine
+        emissions by 70 percent over previous models and
+        improved fuel efficiency provides longer runtimes.
+        Low vibration and improved ergonomics increase
+        operator comfort while the STIHL Easy2Start&trade;
+        system provides simplified startups.

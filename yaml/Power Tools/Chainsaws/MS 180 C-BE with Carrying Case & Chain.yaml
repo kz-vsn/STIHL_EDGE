@@ -1,0 +1,43 @@
+# ==============================================================================
+# STIHL DB: STIHL Product Database
+#
+# Product Data File: MS 180 C-BE with Carrying Case & Chain
+# ==============================================================================
+
+product:
+    model: MS 180 C-BE with Carrying Case & Chain
+    key: ms180cbefree
+    b2b_class: ms180cbefree
+
+type: chainsaw
+sub_type: current
+
+tags: []
+
+specs:
+    weight:
+        - kg: 4.2
+          lbs: 9.3
+          qualifier: None
+    engine_displacement:
+        cc: 31.8
+        cu_in: 1.9
+    engine_power:
+        kw: 1.5
+        bhp: 2
+    fuel_capacity:
+        cc: 250
+        fl_oz: 8.5
+    chain_oil_capacity:
+        cc: 145
+        fl_oz: 4.9
+    description: >-
+        Reserve an MS 180 C-BE and receive a Carrying Case and extra
+        Chain for only $39.99. Offer good at participating
+        Dealers while supplies last. Similar to the MS 180
+        C-B, the STIHL MS 180 C-BE features the
+        Easy2Start&trade; system, making this chainsaw
+        virtually effortless to start. Perfect for cutting
+        firewood or felling trees to 12 inches in diameter,
+        it is a lightweight practical chainsaw with
+        convenient features you can rely on.

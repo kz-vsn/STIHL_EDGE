@@ -1,0 +1,43 @@
+# ==============================================================================
+# STIHL DB: STIHL Product Database
+#
+# Product Data File: MS 460 R MAGNUM Rescue
+# ==============================================================================
+
+product:
+    model: MS 460 R MAGNUM Rescue
+    key: ms460rzmagnum
+    b2b_class: MS 460-RZ Magnum
+
+type: chainsaw
+sub_type: current
+
+tags: []
+
+specs:
+    weight:
+        - kg: 7
+          lbs: 15.4
+          qualifier: None
+    engine_displacement:
+        cc: 76.5
+        cu_in: 4.7
+    engine_power:
+        kw: 4.5
+        bhp: 6
+    fuel_capacity:
+        cc: 800
+        fl_oz: 27.1
+    chain_oil_capacity:
+        cc: 325
+        fl_oz: 11
+    description: >-
+        For fire/rescue service only! A proven professional chainsaw
+        redesigned exclusively for fire, rescue and
+        emergency service work, the MS 460 R MAGNUM&reg;
+        "Rescue" has what it takes&mdash; just ask the
+        Virginia Beach, Va. Fire Department who helped us
+        design it. Lightweight and high powered even at mid-
+        speed range, this chainsaw can cut through even the
+        toughest jobs using its specially designed saw chain
+        in those urgent situations.

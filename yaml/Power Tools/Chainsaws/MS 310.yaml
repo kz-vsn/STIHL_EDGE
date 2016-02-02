@@ -1,0 +1,41 @@
+# ==============================================================================
+# STIHL DB: STIHL Product Database
+#
+# Product Data File: MS 310
+# ==============================================================================
+
+product:
+    model: MS 310
+    key: ms310
+    b2b_class: MS 310
+
+type: chainsaw
+sub_type: current
+
+tags: []
+
+specs:
+    weight:
+        - kg: 5.9
+          lbs: 13
+          qualifier: None
+    engine_displacement:
+        cc: 59
+        cu_in: 3.6
+    engine_power:
+        kw: 3
+        bhp: 4
+    fuel_capacity:
+        cc: 560
+        fl_oz: 18.9
+    chain_oil_capacity:
+        cc: 330
+        fl_oz: 11.2
+    description: >-
+        Series 1127 Mid-Range Use More power than the MS 290? We
+        told you we weren’t messing around. With all the
+        same features as the STIHL FARM BOSS®, the MS 310
+        has a price you’ll love. This mid-range chainsaw has
+        an excellent power-to-weight ratio and provides all
+        the advantages of a professional chainsaw at a cost
+        you can live with.

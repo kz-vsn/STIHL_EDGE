@@ -1,0 +1,46 @@
+# ==============================================================================
+# STIHL DB: STIHL Product Database
+#
+# Product Data File: MS 661 R C-M
+# ==============================================================================
+
+product:
+    model: MS 661 R C-M
+    key: ms661rcm
+    b2b_class: ms661rcm
+
+type: chainsaw
+sub_type: current
+
+tags: []
+
+specs:
+    weight:
+        - kg: 7.66
+          lbs: 16.8
+          qualifier: None
+    engine_displacement:
+        cc: 91.1
+        cu_in: 5.56
+    engine_power:
+        kw: 5.4
+        bhp: 7.2
+    fuel_capacity:
+        cc: 825
+        fl_oz: 27.9
+    chain_oil_capacity:
+        cc: 360
+        fl_oz: 12.1
+    description: >-
+        For greater maneuverability when felling large trees, turn
+        to the impressive performance of the MS 661 R C-M.
+        Its wrap-around handle also provides greater
+        operator comfort when cutting. Just like the MS 661
+        C-M, the saw includes STIHL M-Tronic&trade; engine
+        monitoring technology and delivers less vibration
+        and 20% greater fuel efficiency than the MS 660.
+        Other features include long-life filter system using
+        HD-2 filter elements to provide longer run times
+        between maintenance, an ElastoStart&trade; handle
+        and a high output adjustable oiler. (Wrap-handle
+        version is available in select areas only).
